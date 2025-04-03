@@ -1,0 +1,816 @@
+Dec 12, 2024 3:47:51 AM com.ticket.system.main.Main menu
+INFO: User chose to create new configuration.
+Dec 12, 2024 3:48:06 AM com.ticket.system.main.Main saveConfiguration
+INFO: Configuration saved successfully.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main simulation
+INFO: Starting the ticket handling process.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 1 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 2 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 3 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 4 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 5 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 6 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 7 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 8 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 9 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 10 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 11 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 12 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 13 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 14 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 15 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 16 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 17 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 18 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 19 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 20 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 21 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 22 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 23 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 24 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 25 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 26 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 27 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 28 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 29 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 30 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 31 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 32 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 33 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 34 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 35 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 36 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 37 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 38 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 39 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 40 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 41 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 42 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 43 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 44 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 45 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 46 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 47 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 48 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 49 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 50 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 51 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 52 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 53 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 54 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 55 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 56 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 57 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 58 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 59 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 60 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 61 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 62 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 63 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 64 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 65 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 66 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 67 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 68 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 69 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 70 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 71 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 72 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 73 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 74 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 75 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 76 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 77 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 78 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 79 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 80 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 81 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 82 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 83 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 84 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 85 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 86 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 87 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 88 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 89 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 90 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 91 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 92 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 93 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 94 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 95 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 96 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 97 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 98 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 99 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 1 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 2 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 3 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 4 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 5 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 6 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 7 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 8 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 9 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 10 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 11 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 12 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 13 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 14 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 15 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 16 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 17 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 18 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 19 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 20 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 21 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 22 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 23 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 24 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 25 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 26 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 27 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 28 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 29 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 30 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 31 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 32 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 33 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 34 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 35 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 36 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 37 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 38 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 39 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 40 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 41 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 42 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 43 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 44 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 45 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 46 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 47 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 48 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 49 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 50 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 51 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 52 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 53 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 54 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 55 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 56 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 57 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 58 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 59 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 60 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 61 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 62 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 63 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 64 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 65 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 66 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 67 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 68 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 69 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 70 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 71 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 72 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 73 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 74 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 75 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 76 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 77 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 78 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 79 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 80 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 81 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 82 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 83 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 84 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 85 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 86 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 87 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 88 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 89 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 90 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 91 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 92 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 93 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 94 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 95 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 96 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 97 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 98 thread started.
+Dec 12, 2024 3:48:18 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 99 thread started.
+Dec 12, 2024 3:48:42 AM com.ticket.system.main.Main simulation
+INFO: Stopping the system.
+Dec 12, 2024 3:48:42 AM com.ticket.system.main.Main saveConfiguration
+INFO: Configuration saved successfully.
+Dec 12, 2024 3:51:37 AM com.ticket.system.main.Main menu
+INFO: User chose to create new configuration.
+Dec 12, 2024 3:51:45 AM com.ticket.system.main.Main saveConfiguration
+INFO: Configuration saved successfully.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main simulation
+INFO: Starting the ticket handling process.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 1 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 2 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 3 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 4 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 5 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 6 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 7 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 8 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 9 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 10 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 11 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 12 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 13 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 14 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 15 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 16 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 17 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 18 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 19 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 20 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 21 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 22 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 23 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 24 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 25 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 26 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 27 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 28 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 29 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 30 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 31 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 32 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 33 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 34 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 35 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 36 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 37 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 38 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 39 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 40 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 41 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 42 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 43 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 44 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 45 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 46 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 47 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 48 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 49 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 50 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 51 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 52 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 53 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 54 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 55 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 56 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 57 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 58 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 59 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 60 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 61 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 62 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 63 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 64 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 65 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 66 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 67 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 68 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 69 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 70 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 71 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 72 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 73 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 74 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 75 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 76 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 77 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 78 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 79 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 80 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 81 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 82 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 83 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 84 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 85 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 86 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 87 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 88 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 89 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 90 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 91 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 92 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 93 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 94 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 95 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 96 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 97 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 98 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Vendor 99 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 1 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 2 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 3 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 4 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 5 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 6 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 7 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 8 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 9 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 10 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 11 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 12 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 13 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 14 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 15 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 16 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 17 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 18 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 19 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 20 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 21 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 22 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 23 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 24 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 25 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 26 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 27 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 28 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 29 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 30 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 31 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 32 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 33 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 34 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 35 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 36 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 37 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 38 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 39 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 40 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 41 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 42 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 43 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 44 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 45 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 46 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 47 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 48 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 49 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 50 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 51 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 52 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 53 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 54 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 55 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 56 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 57 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 58 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 59 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 60 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 61 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 62 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 63 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 64 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 65 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 66 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 67 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 68 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 69 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 70 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 71 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 72 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 73 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 74 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 75 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 76 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 77 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 78 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 79 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 80 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 81 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 82 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 83 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 84 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 85 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 86 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 87 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 88 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 89 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 90 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 91 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 92 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 93 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 94 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 95 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 96 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 97 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 98 thread started.
+Dec 12, 2024 3:51:48 AM com.ticket.system.main.Main ticketHandling
+INFO: Customer 99 thread started.
+Dec 12, 2024 3:52:08 AM com.ticket.system.main.Main simulation
+INFO: Stopping the system.
+Dec 12, 2024 3:52:08 AM com.ticket.system.main.Main saveConfiguration
+INFO: Configuration saved successfully.
+Dec 12, 2024 5:02:16 AM com.ticket.system.main.Main menu
+WARNING: Invalid input: Invalid input. Please enter only "YES" or "NO".
+Dec 12, 2024 5:02:19 AM com.ticket.system.main.Main menu
+WARNING: Invalid input: Invalid input. Please enter only "YES" or "NO".
